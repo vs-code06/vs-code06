@@ -140,8 +140,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vs_code06&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vs_code06&theme=radical" height="165"/>
 </p>
 
 ---
@@ -149,8 +149,8 @@
 ## 🤝 Connect With Me
 
 - 📧 Email: **vipul.sharma2024@nst.rishihood.edu.in**  
-- 💼 LinkedIn: **YOUR_LINKEDIN**  
-- 🌐 Portfolio: **YOUR_PORTFOLIO_LINK**
+- 💼 LinkedIn: **https://www.linkedin.com/in/vipul-sharma-069943241**  
+- 🌐 Portfolio: **https://new-portfolio-seven-blond.vercel.app/**
 
 ---
 
