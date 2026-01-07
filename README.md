@@ -135,15 +135,6 @@
 - Backend Architecture  
 - Open Source Contribution at Scale  
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vs-code06&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=vs-code06&theme=radical)
-</p>
-
 
 ---
 
