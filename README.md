@@ -140,8 +140,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vs-code06&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=vs-code06&theme=radical&cache_seconds=1800" />
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vs-code06&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=vs-code06&theme=radical)
 </p>
 
 
