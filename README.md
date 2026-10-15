@@ -13,7 +13,7 @@
   [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Vipul_Sharma06)
   [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/vipul_sharma06)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://new-portfolio-seven-blond.vercel.app/)
-  [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vipul.sharma2024@nst.rishihood.edu.in)
+  [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vipultheplayer@gmail.com)
 
 </div>
 
@@ -125,10 +125,6 @@ STATUS: Learning advanced DSA, System Design, and building AI agent workflows
   </div>
   
   <br/>
-  
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vs-code06&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" width="95%"/>
-  </div>
 
 </details>
 
