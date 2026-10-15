@@ -1,149 +1,142 @@
-<h1 align="center">Hi 👋, I'm Vipul Sharma</h1>
-<h3 align="center">Aspiring Software Developer | Open Source Contributor | Competitive Programmer</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vipul-sharma-069943241">LinkedIn</a> •
-  <a href="https://leetcode.com/u/Vipul_Sharma06/">LeetCode</a> •
-  <a href="https://codeforces.com/profile/Vipul_Sharma06">Codeforces</a> •
-  <a href="https://www.codechef.com/users/vipul_sharma06">CodeChef</a> •
-  <a href="https://new-portfolio-seven-blond.vercel.app/">Portfolio</a>
-</p>
+# Hi there, I'm Vipul Sharma 👋
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+in+the+Making;Full+Stack+Developer;Open+Source+Contributor;Competitive+Programmer)](https://git.io/typing-svg)
 
-## 👨‍💻 About Me
-
-- 🎓 **B.Tech in Artificial Intelligence** @ Newton School of Technology, Rishihood University (2024–2028)  
-- 🏆 **Hacktoberfest 2025 Supercontributor**  
-- 💻 Solved **250+ problems on LeetCode**  
-- ⚔️ Competitive Programmer  
-  - Codeforces Max Rating: **1047**  
-  - CodeChef Max Rating: **1442**  
-- 🚀 Interested in **Full Stack Development, Open Source, and Problem Solving**
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025%20Supercontributor-orange?style=for-the-badge&logo=git"/>
-</p>
-
-- 🎉 Recognized as **Hacktoberfest 2025 Supercontributor**
-- Earned Hacktoberfest badge for meaningful open-source contributions and merged PRs
-
----
-
-## 🛠️ Skills
-
-### 💻 Programming Languages
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" height="40"/>
+  <a href="https://www.linkedin.com/in/vipul-sharma-069943241" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <a href="https://leetcode.com/u/Vipul_Sharma06/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <a href="https://codeforces.com/profile/Vipul_Sharma06" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <a href="https://www.codechef.com/users/vipul_sharma06" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <a href="https://new-portfolio-seven-blond.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
+</div>
+
 ---
 
-### ⚙️ Frameworks & Libraries
+## 🧠 About Me
+
+```python
+class VipulSharma:
+    def __init__(self):
+        self.name        = "Vipul Sharma"
+        self.degree      = "B.Tech in Artificial Intelligence"
+        self.university  = "Newton School of Technology, Rishihood University"
+        self.batch       = "2024 – 2028"
+        self.focus       = ["AI/ML Engineering", "Generative AI", "Full Stack Dev"]
+        self.currently   = ["Advanced DSA", "System Design", "LLM Applications"]
+        self.achievement = "Hacktoberfest 2025 Supercontributor 🏆"
+
+    def say_hi(self):
+        print("Always open to learning, collaborating, and building impactful solutions ⭐")
+```
+
+---
+
+## 🤖 AI & Machine Learning
+
 <p>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=express" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=prisma" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-4A90D9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF9900?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 </p>
 
 ---
 
-### 🗄️ Databases & Backend Services
+## 🛠️ Full Stack & Engineering
+
 <p>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=supabase" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" title="Supabase"/>
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" title="Prisma"/>
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="40" title="Postman"/>
 </p>
 
 ---
 
-### 🧰 Tools & Platforms
-<p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" height="40"/>
-  </a>
-  <a href="https://cloudinary.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cloudinary" height="40"/>
-  </a>
-</p>
+## 🏆 Achievements & Stats
+
+<div align="center">
+
+| 🏅 Achievement | 📝 Details |
+|:---|:---|
+| 🎉 Hacktoberfest 2025 | **Supercontributor** — Meaningful PRs merged across open-source projects |
+| 💻 LeetCode | **350+ problems** solved |
+| 🔵 Codeforces | Max Rating **1047** |
+| 🟡 CodeChef | Max Rating **1442** |
+
+</div>
 
 ---
 
-## 📊 Competitive Programming
+## 📊 GitHub Statistics
 
-- 🟠 **LeetCode:** 250+ problems solved  
-- 🔵 **Codeforces:** Max Rating 1047  
-- 🟡 **CodeChef:** Max Rating 1442  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vs-code06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vs-code06&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+</div>
 
----
-
-## 📜 Certifications
-
-- **Digital Productivity** — NIIT Foundation (Nov 2022)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Data Structures & Algorithms  
-- System Design  
-- Backend Architecture  
-- Open Source Contribution at Scale  
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vs-code06&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🌱 Currently Exploring
 
-- 📧 Email: **vipul.sharma2024@nst.rishihood.edu.in**  
-- 💼 LinkedIn: **https://www.linkedin.com/in/vipul-sharma-069943241**  
-- 🌐 Portfolio: **https://new-portfolio-seven-blond.vercel.app/**
+- 🤖 **LLM Applications** — Building RAG pipelines & AI agents with LangChain/LangGraph
+- 🧩 **System Design** — Distributed systems, scalable architectures
+- 🏗️ **Backend Architecture** — Microservices, API design
+- 📈 **DSA** — Advanced algorithms & competitive programming
 
 ---
 
-⭐ *Always open to learning, collaborating, and building impactful solutions.*
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-vipul.sharma2024%40nst.rishihood.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipul.sharma2024@nst.rishihood.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vipul_Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-sharma-069943241)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://new-portfolio-seven-blond.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vs-code06&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
+  
+  <br/>
+  <sub>⭐ <i>Always open to learning, collaborating, and building impactful solutions.</i></sub>
+</div>
